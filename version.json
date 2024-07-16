@@ -1,4 +1,8 @@
 {
   "version": "2.2",
-  "download_url": "https://www.lazywork.xyz/download"
+  "download_url": "https://www.lazywork.xyz/download",
+  "changelog": {
+    "new_features": "- [All tiers] Workspace switching on MacOS\n- [All tiers] Spam clicking for increased activity\n- [Pro] Variable Low, Medium and High Activity randomization\n- [Pro] Integrated Developer Environment (IDE) interaction through 'Browser Interaction' feature toggle",
+    "improvements": "- Set default key to right arrow key\n- Minor UI Improvements\n- Add better randomization option to keyboard movement\n- Fix Hubstaff detection"
+  }
 }
