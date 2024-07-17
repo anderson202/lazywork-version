@@ -1,5 +1,5 @@
 {
-  "version": "2.2",
+  "version": "2.4",
   "download_url": "https://www.lazywork.xyz/download",
   "changelog": {
     "new_features": "- [All tiers] Workspace switching on MacOS\n- [All tiers] Spam clicking for increased activity\n- [Pro] Variable Low, Medium and High Activity randomization\n- [Pro] Integrated Developer Environment (IDE) interaction through 'Browser Interaction' feature toggle",
