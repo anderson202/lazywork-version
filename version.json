@@ -1,5 +1,5 @@
 {
-  "version": "2.6",
+  "version": "2.7",
   "download_url": "https://www.lazywork.xyz/download",
   "changelog": {
     "new_features": "- [All tiers] Improved movement algorithms to minimize detection from AI",
