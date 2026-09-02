@@ -2,7 +2,7 @@
   "version": "3.0",
   "download_url": "https://www.lazywork.xyz/download",
   "changelog": {
-    "new_features": "- Added hardware clicks toggle - simulates mouse clicks from a physical mouse instead of virtualized clicks\n- Microbreaks toggle - LazyWork will take 5-10 minute breaks every couple of hours"
+    "new_features": "- Added hardware clicks toggle - simulates mouse clicks from a physical mouse instead of virtualized clicks\n- Microbreaks toggle - LazyWork will take 5-10 minute breaks every couple of hours",
     "improvements": "- Security fixes with the application\n- Fixed bug where LazyWork would only work for 3 hours and stop\n- More stability and bug fixes"
   }
 }
